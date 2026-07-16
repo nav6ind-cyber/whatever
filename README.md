@@ -80,13 +80,13 @@ flowchart LR
 
 | System Domain | Core Focus | Highlighted Specifications | Design Complexity |
 | :--- | :--- | :--- | :--- |
-| **Airline Reservation** | Logistics & Booking | Flight Lookup • Seat Reservation | `████████░░` (Medium-High) |
-| **Supermarket System** | E-Commerce & Retail | Cart Checkout • Stock Levels | `████████░░` (Medium-High) |
-| **Smart City System** | IoT & Infrastructure | Sensor Lights • Incident Routing | `██████████` (High) |
-| **Student Management** | Administration | Course Registration • Grading | `██████░░░░` (Medium) |
-| **Railway Reservation** | Transit & Ticketing | Route Maps • PNR Status Tracking | `██████████` (High) |
-| **Point of Sale (POS)** | FinTech Transactions | Barcode Scans • Shift Reconciliation | `██████████` (High) |
-| **ATM System** | FinTech Hardware | PIN Encryption • Cash Dispensing | `██████████` (High) |
+| **Airline Reservation** | Logistics & Booking | Flight Lookup • Seat Reservation | `■■■■■■■■□□` (Medium-High) |
+| **Supermarket System** | E-Commerce & Retail | Cart Checkout • Stock Levels | `■■■■■■■■□□` (Medium-High) |
+| **Smart City System** | IoT & Infrastructure | Sensor Lights • Incident Routing | `■■■■■■■■■■` (High) |
+| **Student Management** | Administration | Course Registration • Grading | `■■■■■■□□□□` (Medium) |
+| **Railway Reservation** | Transit & Ticketing | Route Maps • PNR Status Tracking | `■■■■■■■■■■` (High) |
+| **Point of Sale (POS)** | FinTech Transactions | Barcode Scans • Shift Reconciliation | `■■■■■■■■■■` (High) |
+| **ATM System** | FinTech Hardware | PIN Encryption • Cash Dispensing | `■■■■■■■■■■` (High) |
 
 #### The 8 Design Specifications in Each System Folder:
 1.  **Use Case Diagram** — Boundary scopes and actor relationships.
